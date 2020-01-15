@@ -1,2 +1,2 @@
 # iCloudDocumentsProject
-输入在线链接，点击同步文件会将文件保存到icloud
+输入在线链接，点击按钮「同步文件」会将文件保存到icloud
